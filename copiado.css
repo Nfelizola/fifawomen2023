@@ -2000,8 +2000,18 @@ html[dir=rtl] .carousel_carousel__22wbo .carousel_carouselControlNext__17an8 {
         max-width: 25%
     }
 }
-
+.bloco_direito{
+    display: inline-block;
+    position: absolute;
+    width:320px;
+    height:300px;
+    top:15px;
+    left:405px;
+    border-radius: 10px;
+    background-color: #0088e7;
+    opacity: 0.95;
+}
 .envelope{
-    width:440px;
+    width:400px;
     height:3000px;
 }
